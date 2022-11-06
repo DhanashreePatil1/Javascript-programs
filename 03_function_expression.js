@@ -26,3 +26,5 @@ var result = function (arg1, arg2) {
 }
 var return_value = result(100, 200);
 console.log(return_value);
+
+var v1= 1;
